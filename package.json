@@ -1,0 +1,19 @@
+{
+  "name": "draggame",
+  "version": "1.0.0",
+  "description": "drag and drop game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alphadev30/DragAndDropGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alphadev30/DragAndDropGame/issues"
+  },
+  "homepage": "https://github.com/Alphadev30/DragAndDropGame#readme"
+}
